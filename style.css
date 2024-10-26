@@ -1,0 +1,67 @@
+.navbar-brand img {
+   height: 90px;
+
+}
+.navbar {
+    height: 100px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+}
+
+.container-fluid{
+    background-color: #F6C90E;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+
+}
+.nav-link{
+    color: #ffffff;
+    font-weight: 900;
+}
+
+.carousel-caption{
+    margin-bottom: 200px;
+    font-size: 30px;
+}
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.icon{
+    margin-left: 45%;
+    height: 40px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+.icon-context{
+    margin-left: 45%;
+    font-weight: 500;
+
+}
+
+.img{
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+.icon-title{
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.col-lg-4 {
+
+background-color: #eeebeb;
+padding: 20px;
+border-radius: 8px;
+}
+
+.desc{
+    text-align: center;
+}
